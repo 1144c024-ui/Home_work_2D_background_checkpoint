@@ -1,0 +1,13 @@
+# Unreal 自動產生、可重建的資料夾（不上傳）
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/Build/
+
+# IDE
+.vs/
+.idea/
+*.sln
+*.suo
+*.VC.db
